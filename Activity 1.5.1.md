@@ -1,16 +1,20 @@
 
 ## Operational and  Analytical Dashboards
 
-* distinct features 
+### Definition and primary purpose of an Operational dashboard
+**An operational dashboard is a type of dashboard used by companies to monitor and optimize the performance of their short-time operations**
+* Operational Dashboard shows shorter time frames and operational processes while an Analytical Dashboard contains vast amounts of data created by analysts.
+
+### Definition and primary purpose of an Operational dashboard
+**An analytical dashboard is an analysis tool that contains a vast amount of data created to support a business’s decision-making process**
+* 
+
+
+
 * use-cases :  written description of how users will perform tasks on your dashboard
 * examples 
 
 ---------------
-
-### Definition and primary purpose of an Operational dashboard
-*
-*
-*
 
 ### Key features and components of an Operational dashboard
 *
@@ -33,11 +37,6 @@
 *
 
 ---------------
-
-### Definition and primary purpose of an Analytical dashboard
-*
-*
-*
 
 ### Key features and components of an Analytical dashboard
 *
