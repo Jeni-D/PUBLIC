@@ -6,10 +6,11 @@
 
 **Data Available**: Employee satisfaction survey results, exit interview data, industry benchmark data, internal communication and policy changes logs.
 
-##Who are the primary stakeholder(s) involved:
+## Who are the primary stakeholder(s) involved:
 * VP of Human Resources (Sponsor)
 * Operations Manager
-##Who are the secondary stakeholder(s) involved: 
+
+## Who are the secondary stakeholder(s) involved: 
 * Project Manager
 *Business Analyst
 
