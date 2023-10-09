@@ -4,7 +4,7 @@
 ### Think about your industry and write 2-3 examples of how some of these Chart Types (categories) can be used in your storytelling approaches
 
 ----------
-#### Line and Column
+#### Change over Time: Line and Column
 * Use this type of chart to visualize a call center metric over interval level
   * i.e.: Column = metric such as call volume, and x-axis = interval. Line imposted on top of columns indicating volume over timeframe of the biz day
   * Show relationship between call volume and interval of the day 
