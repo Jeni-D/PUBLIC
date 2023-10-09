@@ -14,7 +14,7 @@
 
 ----------
 ##### *Flow: Network*
-* Use to show high traffic locations for servicing team.
+* Use to show high traffic locations for servicing team. (i.e.: CAT Claims who have to travel)
   *  Show opportunities of where we can build hub offices to assist our team in servicing customers
 
 
@@ -22,7 +22,7 @@
 
 ----------  
 ##### *Magnitude: Radar Chart* 
-* Use this type for visualizing survey metrics in our industry (Medallia)
+* Use this type for visualizing survey metrics in our industry (Medallia survey)
  * Have also seen this used in gaming industry to present stats of a character in MMORPGs
 
 
