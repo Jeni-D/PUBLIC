@@ -13,8 +13,8 @@
 
 
 #### Flow: Network
-* I would use this type for this purpose
-*  xx
+* Use to show high traffic locations for servicing team.
+  *  Show opportunities of where we can build hub offices to assist our team in servicing customers
 
   ![image](https://github.com/Jeni-D/PUBLIC/assets/145617867/b08e3fb2-a806-4699-a23a-b94177d736f9)
 
