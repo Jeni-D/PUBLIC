@@ -18,10 +18,18 @@
 
   ![image](https://github.com/Jeni-D/PUBLIC/assets/145617867/b08e3fb2-a806-4699-a23a-b94177d736f9)
 
-* Image
+  
 
 
 #### Visualization type
 * I would use this type for this purpose
 * Image
   
+
+
+
+
+
+#### Real World Example -- Occupancy and SL correlation
+
+![image](https://github.com/Jeni-D/PUBLIC/assets/145617867/28cd4fd4-f3a5-4e2b-9450-35d59924d12d)
