@@ -1,5 +1,5 @@
 
-# Activity 2.1.1 - Data Visualization and Visual Variety
+## Activity 2.1.1 - Data Visualization and Visual Variety
 
 ### Think about your industry and write 2-3 examples of how some of these Chart Types (categories) can be used in your storytelling approaches
 
@@ -11,7 +11,6 @@
    ![image](https://github.com/Jeni-D/PUBLIC/assets/145617867/60758b7e-086d-4223-9e9c-0ad994e4dd4c)
 
 
-
 #### Flow: Network
 * Use to show high traffic locations for servicing team.
   *  Show opportunities of where we can build hub offices to assist our team in servicing customers
@@ -19,8 +18,6 @@
   ![image](https://github.com/Jeni-D/PUBLIC/assets/145617867/b08e3fb2-a806-4699-a23a-b94177d736f9)
 
   
-
-
 #### Magnitude: Radar Chart 
 * Use this type for visualizing survey metrics in our industry (Medallia)
  * Have also seen this used in gaming industry to present stats of a character in MMORPGs
@@ -28,12 +25,12 @@
   ![image](https://github.com/Jeni-D/PUBLIC/assets/145617867/3bba494a-370b-48a5-ba1f-cb66f507ded8)
 
 
+#### Deviation: Diverging Bar
+* Use for evaluating sales of particular products (policy types...?) over time.
+    * Which products may have been profitable in previous times but are now driving less and less revenue for the company
+  ![image](https://github.com/Jeni-D/PUBLIC/assets/145617867/b81425a9-4d4a-4dad-952f-fc0c10782f4a)
 
-#### Deviation: Diverging Stacked Bar
-* I would use this type for this purpose
-* Image
-* 
-
+  
 
 #### Real World Example -- Occupancy and SL correlation
 
