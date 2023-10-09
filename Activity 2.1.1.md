@@ -12,8 +12,12 @@
 
 
 
-#### Visualization type
+#### Flow: Network
 * I would use this type for this purpose
+*  xx
+
+  ![image](https://github.com/Jeni-D/PUBLIC/assets/145617867/b08e3fb2-a806-4699-a23a-b94177d736f9)
+
 * Image
 
 
