@@ -13,7 +13,7 @@
    ![image](https://github.com/Jeni-D/PUBLIC/assets/145617867/60758b7e-086d-4223-9e9c-0ad994e4dd4c)
 
 ----------
-##### *Flow: Network*
+##### **Flow: Network**
 * Use to show high traffic locations for servicing team. (i.e.: CAT Claims who have to travel)
   *  Show opportunities of where we can build hub offices to assist our team in servicing customers
 
@@ -21,7 +21,7 @@
   ![image](https://github.com/Jeni-D/PUBLIC/assets/145617867/b08e3fb2-a806-4699-a23a-b94177d736f9)
 
 ----------  
-##### *Magnitude: Radar Chart* 
+##### **Magnitude: Radar Chart**
 * Use this type for visualizing survey metrics in our industry (Medallia survey)
  * Have also seen this used in gaming industry to present stats of a character in MMORPGs
 
@@ -29,7 +29,7 @@
   ![image](https://github.com/Jeni-D/PUBLIC/assets/145617867/3bba494a-370b-48a5-ba1f-cb66f507ded8)
 
 ----------
-##### *Deviation: Diverging Bar*
+##### **Deviation: Diverging Bar**
 * Use for evaluating sales of particular products (policy types...?) over time.
    * Which products are making up greatest percentage to goal
    * Which products are popular -- can help to focus marketing efforts on products more likely to bring in revenue
@@ -39,6 +39,6 @@
 
 ----------  
 
-##### Real World Example -- Occupancy and SL correlation
+##### **Real World Example -- Occupancy and SL correlation**
 
 ![image](https://github.com/Jeni-D/PUBLIC/assets/145617867/28cd4fd4-f3a5-4e2b-9450-35d59924d12d)
