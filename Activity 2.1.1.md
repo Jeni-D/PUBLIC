@@ -21,13 +21,18 @@
   
 
 
-#### Visualization type
+#### Magnitude: Radar Chart 
+* Use this type for visualizing survey metrics in our industry (Medallia)
+ * Have also seen this used in gaming industry to present stats of a character in MMORPGs
+
+  ![image](https://github.com/Jeni-D/PUBLIC/assets/145617867/3bba494a-370b-48a5-ba1f-cb66f507ded8)
+
+
+
+#### Deviation: Diverging Stacked Bar
 * I would use this type for this purpose
 * Image
-  
-
-
-
+* 
 
 
 #### Real World Example -- Occupancy and SL correlation
